@@ -2,6 +2,9 @@
 
 It is common that we want to highlight a image because a link or something. This can be done by a border change, link hover etc or a Image Zoom.
 
+* <http://archive.plugins.jquery.com/project/SimpleImageZoom>
+* Latest Release: 0.1.0
+
 # Example of Usage
 
 ```html
