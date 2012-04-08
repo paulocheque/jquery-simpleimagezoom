@@ -1,0 +1,13 @@
+# JQuery-SimpleImageZoom
+
+It is common that we want to highlight a image because a link or something. This can be done by a border change, link hover etc or a Image Zoom.
+
+# Example of Usage
+
+```html
+// Default values: { zoom: 10, speed_hover: 100, speed_unhover: 100, unit: 'px', }
+$('img').ImageZoom();
+
+// Custom values
+$('img').ImageZoom({ zoom: 15, speed_hover: 100, speed_unhover: 200, unit: 'px' });
+```
